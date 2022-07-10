@@ -12,15 +12,14 @@ Table of Contents
 
  Introduction
 ----------------------------------------------------------------------------------------------------------
-
+ The development of an application from teh back end with a social network environment.
 
 
     
 
- * Live URL: https://desolate-hamlet-73946.herokuapp.com/
 
- * Repo URL: https://github.com/gretchesketch/tech-blog
 
+ * Repo URL: https://github.com/gretchesketch/HW_18-social-network
 
 
 Tech
@@ -28,16 +27,13 @@ Tech
 
 This project used the following:
 
- * CSS
  * Javascript
  * Node.js
  * express
- * dotenv
- * handlebars
- * mysql2
- * sequelize
- * uuid
- * session
+ * mongoDB
+ * mongoose
+ * nodemon
+
 
 
 Dependencies
@@ -45,18 +41,16 @@ Dependencies
  
  * Node.js
  * express
- * dotenv
- * handlebars
- * mysql2
- * sequelize
- * uuid
- * session
+ * mongoDB
+ * mongoose
+ * nodemon
+ * moment
 
 
  Troubleshooting
 ----------------------------------------------------------------------------------------
 
-* 
+* used insomnia to check the routes and make demonstration video.
 
 
 
